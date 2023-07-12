@@ -1,2 +1,2 @@
-#!/bin/bash 
-find . -type d ! -path . -print | wc -|
+#!/bin/bash
+chmod -R ugo+x
