@@ -1,2 +1,2 @@
 #!/bin/basih
-grep "root" /etc/passwid
+grep "root" /etc/passwd
